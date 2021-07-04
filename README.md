@@ -19,6 +19,9 @@ Once you've finished playing the game, simply return to the Graphics -> Advanced
 - If you do not encounter a certain texture in your play session, that texture will **not** be upscaled. 
 - The software may still be upscaling textures when you have finished your play session, make sure it has finished before closing the program.
 
-### Example Screenshots
+### Example Video
+https://www.youtube.com/watch?v=9kGDfoTDea0
+
+### Example Images
 ![wiimote_example](assets/wiimote_example.png)
 ![gameplay_example](assets/gameplay_example.png)
